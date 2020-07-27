@@ -1,3 +1,4 @@
+#BufferLoaderCode
 function BufferLoader(context, urlList, callback) {
   this.context = context;
   this.urlList = urlList;
