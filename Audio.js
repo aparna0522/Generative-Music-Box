@@ -9,6 +9,7 @@ var Audio = {
         this.gainNode.gain.value = 1;
         this.gainNode.connect(this.audioContext.destination);
     },
+
     play: function(i) {
         var sound = this.audioContext.createBufferSource();
         sound.connect(this.gainNode);
