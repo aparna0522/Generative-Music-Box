@@ -1,3 +1,4 @@
+
 function View(canvas)
 {
 	this.canvas=canvas;
