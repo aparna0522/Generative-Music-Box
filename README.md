@@ -4,11 +4,8 @@ This project is done with the help of HTML, CSS and JavaScript. It regenerates t
 To run this project, go to the terminal and open a python server. 
 
 Commands: 
-
 cd [PATH]
-
 python3 -m SimpleHTTPServer
 
 Open the localhost on browser http://localhost/musicbox.html
-
 Click anywhere on the canvas. 
