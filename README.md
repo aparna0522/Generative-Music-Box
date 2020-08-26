@@ -3,7 +3,7 @@ This project is done with the help of HTML, CSS and JavaScript. It regenerates t
 
 <br>To run this project, go to the terminal and open a python server. 
 
-<br>Commands: 
+Commands: 
 <br>cd [PATH]
 <br>python3 -m SimpleHTTPServer
 
