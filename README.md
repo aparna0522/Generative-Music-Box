@@ -7,5 +7,5 @@ Commands:
 <br>cd [PATH]
 <br>python3 -m SimpleHTTPServer
 
-<br>Open the localhost on browser http://localhost/musicbox.html
+Open the localhost on browser http://localhost/musicbox.html
 <br>Click anywhere on the canvas. 
