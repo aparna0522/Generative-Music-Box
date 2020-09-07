@@ -11,3 +11,5 @@ Commands:
 Open the localhost on browser http://localhost/musicbox.html
 <br>Click anywhere on the canvas. 
 ```
+<br> <b>Project Reference: </b></br>
+Udemy Course : https://www.udemy.com/course/generative-music-box/learn/lecture/17550926#content
